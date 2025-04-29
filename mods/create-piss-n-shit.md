@@ -1,5 +1,5 @@
 ---
-title: "Create: Piss n' Shit"
+title: "Create: Piss & Shit"
 
 mod:
   modrinth: T8UUYvsH
@@ -42,20 +42,20 @@ A Create add-on that adds piss and shit to the game with interesting mechanics!
 
 ## Testimonials
 
-> C:P&S Revolutionized how I can unload my constipated character. <br />
+> C:P&S Revolutionized how I can unload my constipated character.
 > \- [@lupancham](https://lupancham.net/)
 
-> “It’s actually made with piss & shit” <br />
+> “It’s actually made with piss & shit”
 > \- [@polycord](https://http.cat/404)
 
-> "I did not consent to having this testimonial included" <br />
-> "also that's disgusting" <br />
+> "I did not consent to having this testimonial included"
+> "also that's disgusting"
 > \- [@rowandev](https://modrinth.com/user/RowanDev)
 
-> This mod significantly improves my game performance <br />
+> This mod significantly improves my game performance
 > \- [@worldwidepixel](https://worldwidepixel.ca)
 
-> Approved by Pridecraft Studios <br />
+> Approved by Pridecraft Studios
 > \- [@blrryfacee](https://blurry.gay)
 
 Thanks for the [CRSS](https://crss.cc) discord members for reviewing the mod!
